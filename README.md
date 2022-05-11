@@ -1,5 +1,5 @@
 # Assignment3Otoklix
-This repository contains of test script for Assignment 3 Otoklix
+This repository contains of test script for Assignment 3 Otoklix. I did scripting for this assignment using Selenium, Java, and TestNG.
 Assignment #3
 Please go to https://www.saucedemo.com and create automation test (using any automation tools) for journey order, here is the step
 1. Login
